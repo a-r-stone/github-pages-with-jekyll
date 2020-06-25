@@ -1,3 +1,7 @@
 # Andrew R. Stone
 
-Welcome!
+Welcome! I am a Ph.D. candidate in the Department of Government at Harvard University[https://gov.harvard.edu/]. My research lies at the intersection of American political institutions and political behavior, with a specific focus on the connections between American political elites and the American public. Some of my current projects examine how political elites talk about the judiciary and the consequences of these communications, public attitudes toward political obstruction, competitiveness in judicial elections, and attitudes toward how judges behave. My research has been published or is forthcoming in the *British Journal of Political Science, Political Science Research and Methods, Political Behavior* and *Presidential Studies Quarterly*.
+
+Before my time in Cambridge, I received a M.A. in Political Science from [Washington University in St. Louis](https://polisci.wustl.edu/) and completed my undergraduate studies at [Michigan State University](https://polisci.msu.edu/), graduating with a B.A. in Political Science in 2014.
+
+Please find a copy of my CV [here](https://www.dropbox.com/s/9bzarzhxaurzhlp/stone_cv_dropbox.pdf?dl=0).  
