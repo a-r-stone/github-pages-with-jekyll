@@ -20,3 +20,5 @@ footer_icons:
   url:
   icon:
   title:
+
+markdown: kramdown
