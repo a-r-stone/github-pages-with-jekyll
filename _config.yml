@@ -12,7 +12,7 @@ show_excerpts: false # set to false to remove excerpts on the homepage
 remote_theme: aterenin/minima-reboot
 
 header_pages:
-- index.md
+- about.md
 - research.md
 
 footer_icons:
