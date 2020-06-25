@@ -1,6 +1,6 @@
-# Research
+## Research
 
-## Publications
+### Publications
 
 Kaslovsky, Jaclyn, Jon C. Rogowski and Andrew R. Stone. Forthcoming. "Descriptive Representation and Public Support for Supreme Court Nominees." Political Science Research and Methods. 
 
@@ -10,7 +10,7 @@ Rogowski, Jon C. and Andrew R. Stone. 2020. "Words Speak Louder than Actions: Pu
 
 Reeves, Andrew, Jon C. Rogowski, Min Hee Seo and Andrew R. Stone. 2017. "The Contextual Determinants of Support for Unilateral Action." Presidential Studies Quarterly 47(3):448-470.
 
-## Working Papers
+### Working Papers
 
 Olson, Michael and Andrew R. Stone. "The Incumbency Advantage in Judicial Elections."
 
