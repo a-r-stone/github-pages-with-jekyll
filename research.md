@@ -1,5 +1,3 @@
-## Research
-
 ### Publications
 
 Kaslovsky, Jaclyn, Jon C. Rogowski and Andrew R. Stone. Forthcoming. "Descriptive Representation and Public Support for Supreme Court Nominees." *Political Science Research and Methods*.
