@@ -13,7 +13,6 @@ remote_theme: aterenin/minima-reboot
 
 header_pages:
 - about.md
-- research.md
 
 footer_icons:
 - username:
